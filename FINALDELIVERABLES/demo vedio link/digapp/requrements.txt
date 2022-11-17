@@ -1,0 +1,7 @@
+Python 3.9.12
+pip 22.3.1
+Flask 1.1.2
+Werkzeug 2.0.3
+numpy (1.21.5)
+tensorflow (3.2.2)
+pandas (1.16.0)
